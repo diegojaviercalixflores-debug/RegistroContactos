@@ -1,0 +1,4 @@
+com\mycompany\registrocontactos\RegistroContactos.class
+vista\VentanaContactos.class
+controlador\MainContacto.class
+modelo\Contacto.class
